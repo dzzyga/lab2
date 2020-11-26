@@ -1,0 +1,36 @@
+{
+    font-family: 'Roboto',
+    sans-serif;
+}
+
+h3 {
+    margin: 1,75%;
+}
+
+table {
+    padding: 1,5%;
+}
+
+td {
+    text-align: center;
+    padding: 4px;
+}
+
+.result {
+    font-size: 30px;
+}
+
+#triangle {
+    width: 0;
+    border-bottom: 160px solid #5204D4;
+    border-left: 150px solid transparent;
+}
+
+#calculate {
+     color: black;
+    transition-duration: 0.4s;
+    padding: 10px 16px;
+    font-size: 30px;
+    background-color: white;
+    margin-top: 5%;
+}
